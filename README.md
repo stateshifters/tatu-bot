@@ -5,7 +5,7 @@ This is a tailored version of GitHub's [hubot](https://hubot.github.com/).
 ## Capabilities
 
 - release any commit of [tatu-web](https://github.com/stateshifters/tatu-web)
-to the respective [beta site](beta.tailored-tunes.com) for verification purposes
+to the respective [beta site](http://beta.tailored-tunes.com) for verification purposes
 
 ## Usage
 1. Deploy tatu-bot as you like [instructions on hubot's site](https://github.com/github/hubot/tree/master/docs)
